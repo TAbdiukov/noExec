@@ -1,4 +1,10 @@
 # noExec
+
+[![GitHub](https://img.shields.io/badge/GitHub-TAbdiukov/noExec-black?logo=github)](https://github.com/TAbdiukov/noExec)
+![License](https://img.shields.io/github/license/TAbdiukov/noExec)
+
+[![buymeacoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tabdiukov)
+
 Various attempts on making smallest valid executable that does not do anything,
 
 * [ASM](/ASM)
